@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_botnav_kashar"
+        android:icon="@drawable/kasus"
+        android:title="Kasus"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_botnav_faskes"
+        android:icon="@drawable/rs"
+        android:title="Rumah Sakit"
+        app:showAsAction="ifRoom" />
+</menu>
